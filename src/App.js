@@ -8,7 +8,9 @@ function App() {
       <div className="container">
         <CurrentLocation />
       </div>
-
+      <div className="footer-info">
+        
+      </div>
     </React.Fragment>
   );
 }
